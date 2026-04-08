@@ -106,8 +106,7 @@ The goal of these projects is to apply data science concepts and machine learnin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha_ProjectName.git
-```
+git remote add origin https://github.com/creativework928-max/CodeAlpha_ProjectName.git```
 
 2. Navigate to the project folder:
 
@@ -128,10 +127,10 @@ pip install -r requirements.txt
 Run the Python files for each task:
 
 ```bash
-python task1_iris_classification.py
-python task2_unemployment_analysis.py
-python task3_car_price_prediction.py
-python task4_sales_prediction.py
+python task1_iris_classification.ipynb
+python task2_unemployment_analysis.ipynb
+python task3_car_price_prediction.ipynb
+python task4_sales_prediction.ipynb
 ```
 
 ---
